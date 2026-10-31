@@ -17,7 +17,3 @@
 
 ---
 <sub>联系：956231@qq.com · 本站 27 个自动化脚本与垂直场景包见 [bundles](https://956231studio.com/bundles.html)</sub>
-
----
-
-Maintained by [956231 Studio](https://956231studio.com/) — practical packs for sellers and engineers, built and tested in production: [browse all packs](https://956231studio.com/packs/).
